@@ -3,4 +3,4 @@
 echo "<h1>Hola Mundo</h1>";
 echo "<p>Creador de la página: mgarlop</p>";
 echo "<p>línea añadida desde github</p>";
-echo "<button>Administración</button>";
+echo "<button style=\"border-radius: 5px; border: 1px solid black; padding: 10px;\">Administración</button>";
