@@ -6,4 +6,5 @@ echo "<p>línea añadida desde github</p>";
 echo "<button style=\"border-radius: 5px; border: 1px solid black; padding: 10px;\">Administración</button>";
 echo "<button style=\"border-radius: 5px; border: 1px solid black; padding: 10px;\">Lanzar Exploit :)</button>";
 echo "<p>prueba conflicto</p>";
+echo "<p>prueba conflicto 2</p>";
 ?>
